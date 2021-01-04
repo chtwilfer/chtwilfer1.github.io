@@ -1,6 +1,6 @@
 ---
 id: 253
-title: 'Azure deployments with Powershell and Jupyter Notebook &#8211; Step-by-Step experience'
+title: 'Azure deployments with Powershell and Jupyter Notebook - Step-by-Step experience'
 date: 2020-05-25T18:46:29+01:00
 author: Mr.AzureStack
 layout: post
