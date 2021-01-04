@@ -1,6 +1,6 @@
 ---
 id: 283
-title: **Azure NetApp Files** - Enterprise file storage, powered by NetApp'
+title: Azure NetApp Files - Enterprise file storage, powered by NetApp'
 date: 2020-06-09T12:21:23+01:00
 author: Mr.AzureStack
 layout: post
