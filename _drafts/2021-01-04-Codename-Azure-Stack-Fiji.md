@@ -2,9 +2,11 @@
 title: 'Codename Microsoft Azure Stack "Fiji"'
 layout: single
 categories:
-  - Azure Stack
+  - Azure Stack 
+  - Codename Fiji
 tags:
   - Azure Stack
+  - Codename Fiji
 ---
 
 Microsoft is developing a new member of its **Azure Stack** hybrid computing family that is codenamed Azure Stack "Fiji." 
