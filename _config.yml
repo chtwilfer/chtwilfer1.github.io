@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Christian Twilfer
 email:
-description: My name is Christian Twilfer and I live in Germany. I love my job and everything that has to do with technology. My Job rule is **Senior IT-Architect**, but I am also an **Azure Advisor**, **Expert for Azure & Azure Stack Hub & HCI** and **Tech Sales Lead für Azure NetApp Files**.
+description: My name is Christian Twilfer and I live in Germany. I love my job and everything that has to do with technology. My Job rule is Senior IT-Architect, but I am also an Azure Advisor, Expert for Azure & Azure Stack Hub & HCI and Tech Sales Lead für Azure NetApp Files.
 
 twitter_username: AzureCris
 github_username: chtwilfer
