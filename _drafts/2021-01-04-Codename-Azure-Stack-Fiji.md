@@ -14,10 +14,10 @@ Microsoft's goal with **Azure Stack Fiji** is also focused around providing user
 Azure Stack Hub, the current centerpiece of the company's hybrid-computing play, is provided as an appliance preloaded on certified server hardware from a a handful of Microsoft partners.
 
 Microsoft's current hybrid-computing line-up includes: 
-**Azure Stack Hub**, its "Azure-consistent private cloud",
-**Azure Stack Edge**, its cloud-managed appliance; 
-**Azure Stack HCI** (Hyperconverged Infrastructure), its hyperconverged solution and
-**Azure Edge Zones**, its ultra-low-latency cloud solution
+- **Azure Stack Hub**, its "Azure-consistent private cloud",
+- **Azure Stack Edge**, its cloud-managed appliance; 
+- **Azure Stack HCI** (Hyperconverged Infrastructure), its hyperconverged solution and
+- **Azure Edge Zones**, its ultra-low-latency cloud solution
 
 More in the future.
 
