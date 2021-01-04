@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Christian Twilfer
+title: All you want to know about Azure | Azure Stack Hub |Azure Stack HCI | Azure NetApp Files and other cool Cloud things.
 email:
-description: All you want to know about Azure | Azure Stack Hub |Azure Stack HCI | Azure NetApp Files and other cool Cloud things.
+description: Personal blog from Christian Twilfer
 
 twitter_username: AzureCris
 github_username: chtwilfer
@@ -56,13 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AzureCris"
+  name   : "AzureCris - Christian Twilfer"
   avatar : "/assets/images/IMG_20200520_182539 - Kopie.jpg"
   bio    : "My name is Christian Twilfer and I live in Germany. I love my job and everything that has to do with technology. My Job rule is Senior IT-Architect, but I am also an Azure Advisor, Expert for Azure & Azure Stack Hub & HCI and Tech Sales Lead für Azure NetApp Files."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
