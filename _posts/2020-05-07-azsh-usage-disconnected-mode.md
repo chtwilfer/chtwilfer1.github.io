@@ -1,10 +1,10 @@
 ---
-
 title: 'Azure Stack Hub - Detailed Usage Summary in Disconnected Mode'
 layout: single
 categories:
   - Azure Stack Hub
 ---
+
 For an Azure Stack Hub in a Disconnected Scenario, I am faced with the challenge of reading the detailed usage values of the individual services and exporting them to a file.
 
 During my research I came across two possible approaches. One of them is reading the information via the management API interface of the Azure Stack Hub and the other is reading with Powershell scripts.
