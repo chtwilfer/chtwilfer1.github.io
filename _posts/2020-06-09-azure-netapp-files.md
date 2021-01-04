@@ -62,7 +62,6 @@ But in my opinion there are also Use Cases like this:
 
 and many more on the [Microsoft´s Website](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures) (https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures)
 
-## 
 
 ## Conclusion
 
