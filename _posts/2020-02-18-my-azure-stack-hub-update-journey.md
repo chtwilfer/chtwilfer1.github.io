@@ -22,8 +22,7 @@ So I first had to get an overview and what interested me was the current state o
 As an Azure Stack Operator you have many tasks around the appliance. Here is a small list of what needs to be done:
 
 <img loading="lazy" class="aligncenter size-full wp-image-215" src="https://azurestack.info/wp-content/uploads/2020/02/Operator-Tasks.png" alt="" width="938" height="525" srcset="https://azurestack.info/wp-content/uploads/2020/02/Operator-Tasks.png 938w, https://azurestack.info/wp-content/uploads/2020/02/Operator-Tasks-300x168.png 300w, https://azurestack.info/wp-content/uploads/2020/02/Operator-Tasks-768x430.png 768w" sizes="(max-width: 938px) 100vw, 938px" /> 
-
-Source: Microsoft, Alexander Ortha
+Picture Source: Microsoft, Alexander Ortha
 
 However, we want to concentrate here primarily on the point of installing updates (Microsoft & Hardware Vendor). Various conditions must be fulfilled, or to be observed. In short, there are dependencies between MS & the hardware manufacturer updates.
 
