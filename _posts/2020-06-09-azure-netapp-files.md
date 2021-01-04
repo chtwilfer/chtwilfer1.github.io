@@ -14,12 +14,7 @@ ANF is an enterprise-class, high-performance and metered file storange service.
 
 Today, 80% of enterprise data is stored in files – and even so-called native cloud applications often use files to structure the information that is stored in the cloud. So whether you’re moving enterprise applications and workloads to the cloud, or you want to accelerate many cloud applications, a high-performance, fully managed file service in the cloud is critical. Azure NetApp Files offer a fully managed service, built on NetApp technology, running in the cloud. These services support SMB, NFSv3, and NFSv4 protocols, and they allow full data mobility between any endpoint for hybrid and multi-cloud flexibility. Experience NetApp’s data management capabilities and the cloud’s unlimited availability and scalability, without any of the administrative tasks and overhead.
 
-new one
 ![Azure NetApp Files](/assets/images/Azure-NetApp-Files.jpg)
-
-old one
-<img loading="lazy" class="aligncenter size-full wp-image-284" src="https://azurestack.info/wp-content/uploads/2020/06/Azure-NetApp-Files.jpg" alt="Azure NetApp Files" width="553" height="293" srcset="https://azurestack.info/wp-content/uploads/2020/06/Azure-NetApp-Files.jpg 553w, https://azurestack.info/wp-content/uploads/2020/06/Azure-NetApp-Files-300x159.jpg 300w" sizes="(max-width: 553px) 100vw, 553px" />
-
 
 ## Key Features
 
