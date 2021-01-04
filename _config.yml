@@ -15,10 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Christian Twilfer
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: My name is Christian Twilfer and I live in Germany. I love my job and everything that has to do with technology. My Job rule is **Senior IT-Architect**, but I am also an **Azure Advisor**, **Expert for Azure & Azure Stack Hub & HCI** and **Tech Sales Lead für Azure NetApp Files**.
+
 twitter_username: AzureCris
 github_username: chtwilfer
 minimal_mistakes_skin: air
@@ -71,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/chtwilfer"
 
 footer:
   links:
@@ -83,9 +81,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
 
 defaults:
   # _posts
