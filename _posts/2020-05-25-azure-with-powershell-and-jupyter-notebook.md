@@ -1,8 +1,8 @@
 ---
 title: 'Azure deployments with Powershell and Jupyter Notebook - Step-by-Step experience'
 permalink: /azure-with-powershell-and-jupyter-notebook
+layout: single
 categories:
-  - Blog
   - Jupyter Notebook
   - Azure Stack Hub
   - Grundlagen
