@@ -12,8 +12,7 @@ tags:
   - Powershell
 ---
 
-
-Azure NetApp Files (ANF for short) is no longer so new and has already proven in various projects where the advantages of this enterprise storage is.
+**Azure NetApp Files** (ANF for short) is no longer so new and has already proven in various projects where the advantages of this enterprise storage is.
 
 In this blog entry, I want to talk less about the Use Cases. But give the proof-of-concept (PoC in short) the ability to simplify the ANF deployment,  
 or via Powershell. Of course, you can do everything as usual via the Azure Portal (<a href="https://portal.azure.com" target="_blank" rel="nofollow noopener noreferrer">https://portal.azure.com</a>).
@@ -80,13 +79,11 @@ Either you start the script block by block, or alternatively you can start one l
 
 ## For the deployment in two regions
 
-.\ANF-PoC-Deployment.ps1 -location westeurope -resourcegroup anfwe &#8211; anfaccountname anfwe -creationtoken anfwetest -subnetaddressprefix 10.3.2.0/24 -networkaddressprefix 10.3.0.0/16 -secondlocation northeurope -secondresourcegroup anfne &#8211; secondanfaccountname anfne -secondcreationtoken anfnetest -secondsubnetaddressprefix 10.4.2.0/24 -secondnetworkaddressprefix 10.4.0.0/16
+.\ANF-PoC-Deployment.ps1 -location westeurope -resourcegroup anfwe -anfaccountname anfwe -creationtoken anfwetest -subnetaddressprefix 10.3.2.0/24 -networkaddressprefix 10.3.0.0/16 -secondlocation northeurope -secondresourcegroup anfne -secondanfaccountname anfne -secondcreationtoken anfnetest -secondsubnetaddressprefix 10.4.2.0/24 -secondnetworkaddressprefix 10.4.0.0/16
 
 # The End
 
-There is certainly a lot to improve on the script, but I&#8217;m constantly working on it.  
+There is certainly a lot to improve on the script, but I am constantly working on it.  
 Next I would try a deployment via ARM Templates.
-
-For more infromation about the Use Cases use this Link: <a href="http://techblog.twilfer.net/azure-netapp-files" target="_blank" rel="noopener noreferrer">http://techblog.twilfer.net/p/1455</a>
 
 _Hashtags: #AzureNetAppFiles #Azure #cloudmigration #datacenters #storage #data #cloudstorage #hybridcloud #NetApp #Microsoft #workloads #applications_
