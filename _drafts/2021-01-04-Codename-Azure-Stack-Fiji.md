@@ -19,5 +19,6 @@ Microsoft's current hybrid-computing line-up includes:
 - **Azure Stack HCI** (Hyperconverged Infrastructure), its hyperconverged solution and
 - **Azure Edge Zones**, its ultra-low-latency cloud solution
 
-More in the future.
+Information from: https://www.zdnet.com/article/microsoft-readies-its-aws-outposts-hybrid-competitor-azure-stack-fiji/ - 2020.08.07
 
+More in the future.
