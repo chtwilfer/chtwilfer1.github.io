@@ -9,9 +9,6 @@ tags:
   - Azure Stack Hub
 ---
 
-
-## General
-
 I have consciously chosen this title. Azure NetApp Files (ANF) is becoming increasingly important and therefore I wolud like to go into a little more detail with this article.  
 ANF is an enterprise-class, high-performance and metered file storange service.
 
