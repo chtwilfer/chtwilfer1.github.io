@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "AzureCris - Christian Twilfer"
   avatar : "/assets/images/IMG_20200520_182539 - Kopie.jpg"
-  bio    : "My name is Christian Twilfer and I live in Germany. I love my job and everything that has to do with technology. My Job rule is Senior IT-Architect, but I am also an Azure Advisor, Expert for Azure & Azure Stack Hub & HCI and Tech Sales Lead für Azure NetApp Files."
+  bio    : "I am a Senior IT-Architect, Azure Advisor, Expert for Azure & Azure Stack Hub & HCI and Tech Sales Lead für Azure NetApp Files."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
