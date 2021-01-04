@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-#### My personal blog about Microsoft Azure Stack Hub - [azurestack.info](https://azurestack.info)
 #### My LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/azurecris/)
 #### My code respository about Microsoft Azure NetApp Files - [AzureNetAppFiles](https://github.com/chtwilfer/AzureNetAppFiles)
 #### My code repository about ASDK (Azure Stack Development Kit) - [AzureStack-ASDK](https://github.com/chtwilfer/AzureStack-ASDK)
