@@ -1,9 +1,10 @@
 ---
-title: 'Use the Azure DevOps Demo Generator for your own task planning &#8211; creation of a template &#8211; #AzureStackHub'
+title: 'Use the Azure DevOps Demo Generator for your own task planning - creation of a template'
 layout: single
 categories:
   - Azure Stack Hub
   - Azure DevOps
+  - Azure DevOps Generator
 tags:
   - Azure DevOps
   - Azure DevOps Generator
