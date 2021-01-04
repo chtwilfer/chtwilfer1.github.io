@@ -2,12 +2,6 @@
 permalink: /about/
 title: "About"
 ---
-## Welcome to my new personal GitHub Page (in Preview)
-
-This is my newest personal project.
-
-My name is Christian Twilfer and I live in Germany. I love my job and everything that has to do with technology. My Job rule is **Senior IT-Architect**, but I am also an **Azure Advisor**, **Expert for Azure & Azure Stack Hub & HCI** and **Tech Sales Lead für Azure NetApp Files**.
-
 
 #### My personal blog about Microsoft Azure Stack Hub - [azurestack.info](https://azurestack.info)
 #### My LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/azurecris/)
