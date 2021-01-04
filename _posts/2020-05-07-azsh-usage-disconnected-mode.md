@@ -3,6 +3,8 @@ title: 'Azure Stack Hub - Detailed Usage Summary in Disconnected Mode'
 layout: single
 categories:
   - Azure Stack Hub
+tags:
+  - Azure Stack Hub
 ---
 
 For an Azure Stack Hub in a Disconnected Scenario, I am faced with the challenge of reading the detailed usage values of the individual services and exporting them to a file.
