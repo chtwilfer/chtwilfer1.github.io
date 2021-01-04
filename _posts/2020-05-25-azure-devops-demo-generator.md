@@ -11,8 +11,6 @@ tags:
   - Azure Stack Hub
 ---
 
-## General
-
 In this post I would like to go into more detail about the Azure DevOps Demo (Project) Generator, because in my current activities as an Operator in an Azure Stack Hub project I am dealing with recurring tasks from the operation. That´s why I created my to do´s in Azure DevOps with stories and tasks and entered all information about websites and help in the stories.
 
 These stories and tasks refer to the Azure Stack Hub Operator tasks associated with updates from Microsoft and the manufacturer. In my case, it is a Dell Technologies Azure Stack Hub 14G Integrated System.
