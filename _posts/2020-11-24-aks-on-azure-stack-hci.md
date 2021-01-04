@@ -1,6 +1,6 @@
 ---
-
 title: New Azure Stack HCI (20H2) with Azure Kubernetes Service and Arc-enabled Data Service
+date: 2020-11-24 10:12:56 +0100
 layout: single
 categories:
   - Arc Data Service
