@@ -1,7 +1,7 @@
 ---
 
-title: 'Azure Stack Hub &#8211; Detailed Usage Summary in Disconnected Mode'
-layout: Single
+title: 'Azure Stack Hub - Detailed Usage Summary in Disconnected Mode'
+layout: single
 categories:
   - Azure Stack Hub
 ---
