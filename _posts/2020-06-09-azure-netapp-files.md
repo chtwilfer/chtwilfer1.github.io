@@ -51,7 +51,7 @@ The newest announcement is that ANF is also available in the Azure Region German
 
 Since Microsoft announced general availability of Azure NetApp Files a year ago, some of the key use cases that have emerged include:
 
-  * Windows Virtual Desktop (WVD) (and in the future in combinition with **Microsoft Azure Stack Hub** [Announcement](https://techcommunity.microsoft.com/t5/azure-stack-blog/azure-stack-announcements-at-build-2020/ba-p/1406969#) on Build 2020**)
+  * Windows Virtual Desktop (WVD) (and in the future in combinition with **Microsoft Azure Stack Hub** [Announcement](https://techcommunity.microsoft.com/t5/azure-stack-blog/azure-stack-announcements-at-build-2020/ba-p/1406969#) on Build 2020)
   * SAP
   * High-performance computing (HPC)
 
