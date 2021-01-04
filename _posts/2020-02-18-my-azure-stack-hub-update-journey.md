@@ -1,6 +1,6 @@
 ---
 title: 'My Azure Stack Hub update journey to Version 2002 - success'
-layout: post
+layout: single
 categories:
   - Azure Stack Hub
   - Azure Stack
