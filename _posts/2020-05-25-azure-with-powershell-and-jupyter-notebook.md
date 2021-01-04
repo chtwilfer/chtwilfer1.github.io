@@ -13,8 +13,6 @@ tags:
   - Powershell
 ---
 
-## General
-
 I love performing deployments in Azure via Powershell. This saves time and simplifies your daily work in the operation of customers. Above all, it is an asset for IT service providers. This makes it possible to automate recurring tasks. So far I have always worked with the Powershell Console. Since Build 2020 I also work with Windows Terminal and most recently with Jupyter Notebook. And that&#8217;s what this blog post is all about. As an alternative, Microsoft presented Visual Studio Codespaces at Build 2020. It&#8217;s going in the same direction. The goal is that Dev Teams can work on code at the same time.
 
 ## 
