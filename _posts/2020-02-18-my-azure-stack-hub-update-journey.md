@@ -1,12 +1,6 @@
 ---
-id: 214
 title: 'My Azure Stack Hub update journey to Version 2002 - success'
-date: 2020-02-18T22:32:55+01:00
-author: Mr.AzureStack
 layout: post
-guid: http://azurestack.info/?p=214
-permalink: /my-azure-stack-hub-update-journey
-
 categories:
   - Azure Stack Hub
   - Azure Stack
@@ -16,6 +10,7 @@ tags:
   - Azure Stack Hub
   - Microsoft
 ---
+
 I am currently on an Azure Stack Hub appliance update journey. I would like to share this project with you. It all started with an Azure Stack Hub 4-Node Appliance (Integrated System), which I technically took over at the customer.
 
 The goal was to update the system to the current patch status in the “shortest&#8221; time. And that&#8217;s where my first problem started. 😊 I have known customer wishes, such as „can you just do it&#8221; from the past 25 years in IT, but „in the shortest time&#8221; for a complex IT infrastructure appliance consisting of individual hardware nodes assembled into a unit.
