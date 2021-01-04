@@ -1,12 +1,6 @@
 ---
-id: 283
 title: Azure NetApp Files - Enterprise file storage, powered by NetApp'
-date: 2020-06-09T12:21:23+01:00
-author: Mr.AzureStack
-layout: post
-guid: https://azurestack.info/?p=283
-permalink: /azure-netapp-files
-
+layout: single
 categories:
   - Azure NetApp Files
   - Azure Stack Hub
