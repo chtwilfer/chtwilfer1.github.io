@@ -20,13 +20,14 @@ So let´s jump in the features and let me tell you what it is and when to use.
 
 Azure Kubernetes Service is an on-prem implementation, which automates running containerized applications at scale.
 
-<img loading="lazy" class="aligncenter size-full wp-image-318" src="https://azurestack.info/wp-content/uploads/2020/11/AKS-on-HCI.png" alt="AKS on Azure Stack HCI" width="1167" height="561" srcset="https://azurestack.info/wp-content/uploads/2020/11/AKS-on-HCI.png 1167w, https://azurestack.info/wp-content/uploads/2020/11/AKS-on-HCI-300x144.png 300w, https://azurestack.info/wp-content/uploads/2020/11/AKS-on-HCI-1024x492.png 1024w, https://azurestack.info/wp-content/uploads/2020/11/AKS-on-HCI-768x369.png 768w" sizes="(max-width: 1167px) 100vw, 1167px" /> 
+![AKS on AzS HCI](/assets/images/AKS-on-HCI-1024x492.png)
+
 
 ## 
 
 ## Consistent with AKS in Azure
 
-means that it is an &#8220;All-inclusive&#8221; Kubernetes platform. AKS ist easy to deploy. You can use the GUI of Windows Admin Center or Powershell. And you can leverage our existing skills.
+means that it is an "All-inclusive" Kubernetes platform. AKS ist easy to deploy. You can use the GUI of Windows Admin Center or Powershell. And you can leverage our existing skills.
 
 ## Hybrid by design
 
@@ -62,7 +63,8 @@ WAC is a locally deployed, browser-based app for managing Windows servers, clust
   * Register Azure Stack HCI to Azure
   * Register AKS to Azure
 
-<img loading="lazy" class="aligncenter size-full wp-image-321" src="https://azurestack.info/wp-content/uploads/2020/11/AKS-WAC.png" alt="aks-deployment" width="1047" height="478" srcset="https://azurestack.info/wp-content/uploads/2020/11/AKS-WAC.png 1047w, https://azurestack.info/wp-content/uploads/2020/11/AKS-WAC-300x137.png 300w, https://azurestack.info/wp-content/uploads/2020/11/AKS-WAC-1024x467.png 1024w, https://azurestack.info/wp-content/uploads/2020/11/AKS-WAC-768x351.png 768w" sizes="(max-width: 1047px) 100vw, 1047px" /> 
+![AKS WAC](/assets/images/AKS-WAC-1024x467.png)
+
 
 ## 
 
@@ -85,8 +87,7 @@ Azure Arc makes it possible to run Azure data services on-premises, at the edge 
   * Integrated Security
   * Cloud Billing
 
-<img loading="lazy" class="aligncenter size-full wp-image-323" src="https://azurestack.info/wp-content/uploads/2020/11/arcdataservices.png" alt="Arc Data Services" width="1152" height="593" srcset="https://azurestack.info/wp-content/uploads/2020/11/arcdataservices.png 1152w, https://azurestack.info/wp-content/uploads/2020/11/arcdataservices-300x154.png 300w, https://azurestack.info/wp-content/uploads/2020/11/arcdataservices-1024x527.png 1024w, https://azurestack.info/wp-content/uploads/2020/11/arcdataservices-768x395.png 768w" sizes="(max-width: 1152px) 100vw, 1152px" /> 
-
+![ARC Data Services](/assets/images/arcdataservices-1024x527.png)
 
 
 # Advantages
