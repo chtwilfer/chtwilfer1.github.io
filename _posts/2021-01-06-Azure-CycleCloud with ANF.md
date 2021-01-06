@@ -11,7 +11,7 @@ tags:
   - Azure NetApp Files
 ---
 
-***What is Azure CycleCloud and what does it have to do with Azure NetApp FIles (ANF)?***
+**What is Azure CycleCloud and what does it have to do with Azure NetApp FIles (ANF)?**
 
 Azure CycleCloud is an enterprise-friendly tool for orchestrating and managing High Performance Computing (HPC) environments on Azure. With CycleCloud, users can provision infrastructure for HPC systems, deploy familiar HPC schedulers, and automatically scale the infrastructure to run jobs efficiently at any scale. Through CycleCloud, users can create different types of file systems and mount them to the compute cluster nodes to support HPC workloads.
 CycleCloud is the sister product to Azure Batch, which provides a Scheduler as a Service on Azure.
@@ -48,8 +48,8 @@ This External NFS option can be used to mount endpoints such as Azure HPC Cache,
 
 
 **More informationen** about these Azure Services:
-Azure CycleCloud: https://docs.microsoft.com/de-de/azure/cyclecloud/?view=cyclecloud-8
-Azure CycleCloud Version 8.1: https://techcommunity.microsoft.com/t5/azure-compute/azure-cyclecloud-8-1-is-now-available/ba-p/1898011
-High Performance Computing (HPC) on Azure: https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing
-Azure NetApp Files: https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction
-ANF Solutions: https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures
+- Azure CycleCloud: https://docs.microsoft.com/de-de/azure/cyclecloud/?view=cyclecloud-8
+- Azure CycleCloud Version 8.1: https://techcommunity.microsoft.com/t5/azure-compute/azure-cyclecloud-8-1-is-now-available/ba-p/1898011
+- High Performance Computing (HPC) on Azure: https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing
+- Azure NetApp Files: https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction
+- ANF Solutions: https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-solution-architectures
