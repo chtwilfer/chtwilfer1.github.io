@@ -11,13 +11,13 @@ tags:
   - Azure NetApp Files
 ---
 
-**What is Azure CycleCloud and what does it have to do with Azure NetApp FIles (ANF)?**
+# **What is Azure CycleCloud and what does it have to do with Azure NetApp FIles (ANF)?**
 
 Azure CycleCloud is an enterprise-friendly tool for orchestrating and managing High Performance Computing (HPC) environments on Azure. With CycleCloud, users can provision infrastructure for HPC systems, deploy familiar HPC schedulers, and automatically scale the infrastructure to run jobs efficiently at any scale. Through CycleCloud, users can create different types of file systems and mount them to the compute cluster nodes to support HPC workloads.
 CycleCloud is the sister product to Azure Batch, which provides a Scheduler as a Service on Azure.
 
 
-**CycleCloud Environment**
+# **CycleCloud Environment**
 
 ![CycleCloud Environment](/assets/images/CycleCloud Environment.PNG)
 
@@ -27,7 +27,7 @@ an NFS server or BeeGFS cluster, login nodes, bastion hosts, and other component
 Additionally, CycleCloud HPC environments can utilize other PaaS services such as Azure NetApp Files, Azure HPC Cache, and Azure Active Directory Domain Service.
 
 
-**Integrate Azure NetApp Files to customized Cluster**
+# **Integrate Azure NetApp Files to customized Cluster**
 
 ![Integrate ANF](/assets/images/Integrate ANF.PNG)
 
@@ -36,18 +36,18 @@ If the External NFS option is specified, additional fields appear for specifying
 This External NFS option can be used to mount endpoints such as Azure HPC Cache, **Azure NetApp Files**, or NFS on Azure Blob Storage.
 
 
-**Decission for Azure NetApp Files**
+# **Decission for Azure NetApp Files**
 - Azure NetApp Files is a crucial enabler for high performance, low latency enterprise file based NAS workloads.
 - Azure NetApp Files has shared storage for HPC on Azure.
 - The massive on demand scalability of Azure NetApp Files, to deal with continually changing workload demands.
 
-**Benefits**
+# **Benefits**
 - Simple Management: Native Azure experience
 - Performance: Better than on-prem
 - Lift & Shift: Flexible data transfer
 
 
-**More informationen** about these Azure Services:
+## **More informationen** about these Azure Services:
 
 - [Azure CycleCloud](https://docs.microsoft.com/de-de/azure/cyclecloud/?view=cyclecloud-8)
 - [Azure CycleCloud Version 8.1](https://techcommunity.microsoft.com/t5/azure-compute/azure-cyclecloud-8-1-is-now-available/ba-p/1898011)
