@@ -48,7 +48,7 @@ This External NFS option can be used to mount endpoints such as Azure HPC Cache,
 
 
 **More informationen** about these Azure Services:
-- Azure CycleCloud: https://docs.microsoft.com/de-de/azure/cyclecloud/?view=cyclecloud-8
+- [Azure CycleCloud] (https://docs.microsoft.com/de-de/azure/cyclecloud/?view=cyclecloud-8)
 - Azure CycleCloud Version 8.1: https://techcommunity.microsoft.com/t5/azure-compute/azure-cyclecloud-8-1-is-now-available/ba-p/1898011
 - High Performance Computing (HPC) on Azure: https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing
 - Azure NetApp Files: https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction
