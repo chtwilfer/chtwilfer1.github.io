@@ -82,15 +82,7 @@ author:
       url: "https://azurconf.de"
     - label: "AzurConf - Recording 2020"
       url: "https://www.orange-networks.com/downloads/azurconf-2020-ihre-unterlagen"
-
-  rechts:
-    category_archive:
-        type: liquid
-        path: /categories/
-    tag_archive:
-        type: liquid
-        path: /tags/
-  
+ 
 footer:
   links:
     - label: "Twitter"
