@@ -82,7 +82,7 @@ author:
       icon: "fab fa-fw fa-cloud"
       url: "https://azurconf.de"
     - label: "AzurConf - Recording 2020"
-      icon: "fab fa-fw fa-cloud"
+      icon: "fab fa fa-hand-o-right"
       url: "https://www.orange-networks.com/downloads/azurconf-2020-ihre-unterlagen"
 
 footer:
