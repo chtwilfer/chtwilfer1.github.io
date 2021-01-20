@@ -15,8 +15,8 @@ tags:
 
 ## **NetApp Cloud Services Demo Infrastructure in Azure**
 
-![ANF](/assets/images/Azure-NetApp-Files-Icon.png) ![CVO](/assets/images/Cloud-Volumes-ONTAP-Icon.png)
- ![GFC](/assets/images/Global-File-Cache-Icon.png) ![CloudManager](/assets/images/Cloud-Manager-Icon.png)
+![ANF](/assets/images/Azure-NetApp-Files-Icon.png)   ![CVO](/assets/images/Cloud-Volumes-ONTAP-Icon.png)  
+ ![GFC](/assets/images/Global-File-Cache-Icon.png)   ![CloudManager](/assets/images/Cloud-Manager-Icon.png)
 
 It's time to present something new. I made the effort and created a Powershell script, which I can use for demo purposes at customer meetings.
 The idea was born in a customer meeting. We presented Azure NetApp Files and the customer wanted to see how fast and easy it is to deploy ANF in Azure.
