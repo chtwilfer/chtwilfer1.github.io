@@ -14,9 +14,8 @@ tags:
 ---
 
 ## **NetApp Cloud Services Demo Infrastructure in Azure**
+This little script creates **NetApp Cloud Services** in **Azure**. It will deploy **Azure NetApp Files**, **Cloud Volumes ONTAP** and **Global File Cache**.
 
-![ANF](/assets/images/Azure-NetApp-Files-Icon.png)   ![CVO](/assets/images/Cloud-Volumes-ONTAP-Icon.png)  
- ![GFC](/assets/images/Global-File-Cache-Icon.png)   ![CloudManager](/assets/images/Cloud-Manager-Icon.png)
 
 It's time to present something new. I made the effort and created a Powershell script, which I can use for demo purposes at customer meetings.
 The idea was born in a customer meeting. We presented Azure NetApp Files and the customer wanted to see how fast and easy it is to deploy ANF in Azure.
@@ -25,7 +24,7 @@ So what came out of that now. In short, **Azure NetApp Files** is deployed in tw
 With a virtual machine and Active Directory Services on it, SMB shares can also be deployed in the ANF pool. In the same way I present the topic Snapshot / Backup.
 
 If you still don't have enough of this, you can deploy **Cloud Volumes ONTAP** and **Global File Cache** via two additional switches in two further resource groups.
-The final configuration of CVO and GFC is then done via the NetApp Cloud Manager. This means that there must be a connector to Azure here.
+The final configuration of CVO and GFC is then done via the NetApp **Cloud Manager**. This means that there must be a connector to Azure here.
 Inevitably then also an access (login) to the Cloud Manager. 
 
 What is missing is the topic "Cross-Region Replication". Here, if necessary, can be manually reworked in Azure. Because CRR is in Preview.
