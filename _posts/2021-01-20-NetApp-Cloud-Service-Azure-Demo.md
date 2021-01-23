@@ -14,7 +14,7 @@ tags:
 ---
 
 ## **NetApp Cloud Services Demo Infrastructure in Azure**
-This little script creates **NetApp Cloud Services** in **Azure**. It will deploy **Azure NetApp Files**, **Cloud Volumes ONTAP** and **Global File Cache**.
+This little script creates **NetApp Cloud Services** in **Azure**. It will help you to deploy **Azure NetApp Files**, **Cloud Volumes ONTAP** and **Global File Cache**.
 
 
 It's time to present something new. I made the effort and created a Powershell script, which I can use for demo purposes at customer meetings.
