@@ -23,6 +23,7 @@ The streched cluster and storage replica works hand in hand with the storage rep
 While the streched cluster provides automatic fail-over the VMs are in sync. There ist no need to manaual intervention.
 
 ![HCI Solution](/assets/images/HCISolution.jpg)
+
 [Quelle](https://docs.microsoft.com/en-us/azure-stack/hci/overview)
 
 ## **Storage Replication**
@@ -38,6 +39,7 @@ With an Active-Active cluster all configured sites has an active replication to 
 With an Active-passiv cluster you have a preferred site and a direction for replication. In case of an error the cluster replicates the storage and moves the VMs to the other site. 
 
 ![cluster types](/assets/images/HCIClusterType.jpg)
+
 [Quelle](https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-hci-dr)
 
 ## **Hardware considerations**
