@@ -20,15 +20,15 @@ tags:
 With the new **Azure Stack HCI** (20H2) Version Microsoft brings the streched cluster solution for disaster recovery (DR) and business continuity (BC) to the customers.
 
 The streched cluster and storage replica works hand in hand with the storage replication of the volumes across the configured sites for disaster recovery. 
-While the streched cluster provides automatic fail-over the VMs are in sync. There ist no need to manaual intervention.
+While the streched cluster provides automatic fail-over the VMs are in sync. There is no need for manaual intervention.
 
 ![HCI Solution](/assets/images/HCISolution.jpg)
 
 [Quelle](https://docs.microsoft.com/en-us/azure-stack/hci/overview)
 
 ## **Storage Replication**
-Storage Replica supports sychronous and asynchronous replication. The dessicion for synchronous replication is when you have a low-latency network with crash-consistent
-volumes to ensure data loss at the files-system level during the failure. With asynchronous replication the system mirrors data across your configured sites over a network
+Storage Replica supports sychronous and asynchronous replication. The decision for synchronous replication is when you have a low-latency network with crash-consistent
+volumes to prevent data loss at the files-system level during the failure. With asynchronous replication the system mirrors data across your configured sites over a network
 with higher latencies. 
 
 ## **Cluster types**
