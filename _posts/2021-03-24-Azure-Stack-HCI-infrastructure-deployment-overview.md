@@ -23,25 +23,25 @@ Deployment models are:
 ![HCI Infrastructure deployment](/assets/images/DellAzSHCIinfrastructuredeployments.jpg)
 
 
-With the scalable model you can use 2 (minimum) to  16 (maximum) Nodes. There are also top-of-rack switches for managment and storage traffic.
+With the **scalable model** you can use 2 (minimum) to  16 (maximum) Nodes. There are also top-of-rack switches for managment and storage traffic.
 The scalable model can be deployed in two network topologies.
 - fully-converged
 - non-converged
 
-In the fully-converged network topology all storage ports from the same server are connected to the same network fabric. Within the host OS, the NIC ports are used for both storage and management / VM traffic. 
+In the **fully-converged** network topology all storage ports from the same server are connected to the same network fabric. Within the host OS, the NIC ports are used for both storage and management / VM traffic. 
 
-In the non-converged network topology the storage traffic is seperated from the management / VM traffic using dedicated storage netowrk adapters.
+In the **non-converged** network topology the storage traffic is seperated from the management / VM traffic using dedicated storage netowrk adapters.
 There are two different variants of the non-converged topology with storage on physical apadapters. 
 In the first variant one port per network adapater is used for the physical storage links and the rest from each NIC are used for management / VM traffic. This topology helps in scenarios where you require higher bandwidth for VMs whilst not compromising on bandwidth for storage traffic.
 The second variant one port of the two 2-port adapters is for the storage traffic. The second port of the two 2-port adapter will set in a Switch Embedded Teaming (SET) for management / VM  and host OS traffic.
 
 
-With the switchless model you can use 2 (minimum) to 4 (maximum) Nodes. The full mesh topology differs in:
+With the **switchless model** you can use 2 (minimum) to 4 (maximum) Nodes. The full mesh topology differs in:
 - single link full mesh (with 3 to 4 Nodes)
 - dual link full mesh (with 2 to 4 Nodes)
 
 
-With the strechted cluster cdeployment you can use 4 to 16 Nodes (that means 2 / 8 Nodes per site). If you want to use storage replica across WAN you cannot use RDMA. Furthermore there are the following additional possibilities:
+With the **strechted cluster** deployment you can use 4 to 16 Nodes (that means 2 / 8 Nodes per site). If you want to use storage replica across WAN you cannot use RDMA. Furthermore there are the following additional possibilities:
 - synchronous / asynchronous replication
 - active - active / active - passive
 - 2 sites
@@ -109,7 +109,7 @@ What is the best switchless 2-node model for a PoC?
 -> A switchless model with dual link full mesh
 
 
-Conclusion
+**Conclusion**
 I prefered the scalable model with a non-converged netowrk topology. That means one Azure Stack HCI with 2 to 16 Nodes in one Data Center. For Disaster Recovery you can use different Azure Services, such as Azure Site Recovery and Azure Backup.
 
 And if you still don't have enough information, or you are planning to implement Azure Stack HCI but don't know exactly how, feel free to contact me.
