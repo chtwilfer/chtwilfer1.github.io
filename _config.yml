@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Christian Twilfer (AzureCris)"
   avatar : "/assets/images/IMG_20200520_182539 - Kopie.jpg"
-  bio    : "I am a Senior IT-Architect | Azure Advisor | Expert for Azure & Azure Stack Hub & HCI and NetApp Cloud Services"
+  bio    : "I am a Senior IT-Architect, Azure Advisor, Expert for Azure & Azure Stack Hub & HCI and NetApp Cloud Services"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
