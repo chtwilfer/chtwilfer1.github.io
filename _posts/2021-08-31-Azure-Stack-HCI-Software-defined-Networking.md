@@ -28,9 +28,9 @@ For example:
 - Customers can scale virtual appliances up or down dynamically based on demand.
 
 SDN combines various technologies, including:
-The **Network Controller** allows you to automate the configuration of your network infrastructure.
-A **RAS-Gateway** is a software-based, multi-instance, BGP-enabled router to host multi-instance virtual networks using HNV.
-**Software load balancing** (SLB) is used in SDN to distribute the network traffic of the client and the client customer evenly across the virtual network resources. 
+- The **Network Controller** allows you to automate the configuration of your network infrastructure.
+- A **RAS-Gateway** is a software-based, multi-instance, BGP-enabled router to host multi-instance virtual networks using HNV.
+- **Software load balancing** (SLB) is used in SDN to distribute the network traffic of the client and the client customer evenly across the virtual network resources. 
 
 [SDN-Express - MSFT](https://lnkd.in/deeBaAz7)
 
