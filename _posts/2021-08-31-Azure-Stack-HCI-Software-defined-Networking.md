@@ -13,7 +13,7 @@ tags:
 
 ## **Azure Stack HCI  - Software defined Networking**
 
-SDN virtualizes your network to abstract physical hardware network elements such as switches and routers. Using SDN you can dynamically manage your datacenter networking to meet workload and app requirements. Network policies can be implemented consistently, at scale, even as you deploy new workloads, or move workloads across virtual or physical networks.
+Software defined Networking (SDN) virtualizes your network to abstract physical hardware network elements such as switches and routers. Using SDN you can dynamically manage your datacenter networking to meet workload and app requirements. Network policies can be implemented consistently, at scale, even as you deploy new workloads, or move workloads across virtual or physical networks.
 
 With **SDN** you deploy virtual appliances in your **Azure Stack HCI** Environment. A virtual appliance is dynamic and easy to change because it is a pre-built, customized virtual machine. It can be one or more virtual machines packaged, updated, and maintained as a unit. Together with software defined networking (SDN), you get the agility and flexibility needed in today's cloud-based infrastructure. 
 
