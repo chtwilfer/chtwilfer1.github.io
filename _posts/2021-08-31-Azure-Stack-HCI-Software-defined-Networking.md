@@ -32,11 +32,11 @@ The **Network Controller** allows you to automate the configuration of your netw
 A **RAS-Gateway** is a software-based, multi-instance, BGP-enabled router to host multi-instance virtual networks using HNV.
 **Software load balancing** (SLB) is used in SDN to distribute the network traffic of the client and the client customer evenly across the virtual network resources. 
 
-SDN-Express - MSFT https://lnkd.in/deeBaAz7
+[SDN-Express - MSFT](https://lnkd.in/deeBaAz7)
 
-SDN-Express - Github https://lnkd.in/d7ffG8_2
+[SDN-Express - Github](https://lnkd.in/d7ffG8_2)
 
-SCVMM Konfig - MSFT https://lnkd.in/dR66egYy
+[SCVMM Konfig - MSFT](https://lnkd.in/dR66egYy)
 
 #AzureStackHCI
 #SDN
