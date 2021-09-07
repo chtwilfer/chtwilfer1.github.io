@@ -1,5 +1,5 @@
 ---
-title: 'Azure Stack HCI - Software defined Networking'
+title: 'Azure Stack HCI - 21H2 - new feautures'
 layout: single
 categories:
   - Azure Stack HCI
@@ -11,7 +11,7 @@ tags:
   - Azure
 ---
 
-## **Azure Stack HCI -21H2 - new features**
+## **Azure Stack HCI - 21H2 - new features**
 
 If you want to learn about the latest features in Azure Stack HCI 21H2 and Windows Server 2022, then these two links will give you valuable information.
 
