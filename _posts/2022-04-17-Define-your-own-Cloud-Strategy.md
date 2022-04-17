@@ -5,6 +5,7 @@ categories:
   - Azure Cloud Strategy
   - Azure Stack HCI
   - Azure Arc
+  - HybridCloud
 tags:
   - Microsoft
   - Azure
