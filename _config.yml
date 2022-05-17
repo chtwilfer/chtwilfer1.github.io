@@ -54,6 +54,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-algolia
 
 author:
   name   : "Christian Twilfer (AzureCris)"
