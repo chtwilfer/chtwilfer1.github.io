@@ -28,6 +28,6 @@ At this time you cannot install a single cluster with Windows Admin Center.
 
 Therefore, I have collected the Powershell scripts for the deployment on my Github page.
 
-You can find my Github page here: https://github.com/chtwilfer/Azure-Stack-HCI-Single-Server-Deployment
+You can find my Github page here: [Github](https://github.com/chtwilfer/Azure-Stack-HCI-Single-Server-Deployment)
 
 Please feel fre to comment or come back to me with your thoughts. :-)
