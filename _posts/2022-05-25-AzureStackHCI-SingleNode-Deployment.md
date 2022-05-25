@@ -2,7 +2,6 @@
 title: 'Azure Stack HCI - Single Node - Deployment'
 layout: single
 categories:
-  - Azure Cloud Strategy
   - Azure Stack HCI
   - Azure Arc
   - HybridCloud
@@ -13,9 +12,7 @@ tags:
   - Arc
   - HybridCloud
   - AzureStackHCI
-  - CloudStrategy
   - Cloud
-  - Strategy
 ---
 
 ## News
@@ -29,5 +26,29 @@ At this time you cannot install a single cluster with Windows Admin Center.
 Therefore, I have collected the Powershell scripts for the deployment on my Github page.
 
 You can find my Github page here: [Github/chtwilfer](https://github.com/chtwilfer/Azure-Stack-HCI-Single-Server-Deployment)
+
+### Comparing singel-node and multi-node clusters
+The following table compares attributes of a single-node cluster to multi-node clusters.
+
+|Attributes|Single-Node|Multi-Node
+|-|-|-|
+| Full software-defined data center (SDDC) stack (hypervisor, storage, networking) | Yes | Yes |
+| Storage Spaces Direct support |	Yes |	Yes |
+| Software Defined Networking (SDN) support |	Yes	| Yes |
+| Native Azure Arc integration | Yes |	Yes |
+| Managed through Windows Admin Center and Azure portal |	Yes | Yes |
+| Azure billing/registration | Yes | Yes |
+| Charged per physical core | Yes |	Yes |
+| Support through Azure |	Yes |	Yes |
+| Connectivity (intermittent or connected)|	Yes |	Yes |
+| Azure benefits on Azure Stack HCI |	Yes |	Yes |
+| Activate Windows Server Subscriptions |	Yes |	Yes |
+| Azure Defender and Secured-core |	Yes |	Yes |
+| Azure Kubernetes Service on Azure Stack HCI (AKS-HCI) |	Yes |	Yes |
+| Azure Virtual Desktop |	Yes |	Yes |
+| Azure Site Recovery |	Yes |	Yes |
+| Azure Stack HCI: Stretch cluster support |	No |	Yes |
+| Use Graphics Processing Units (GPUs) with clustered VMs |	Yes |	Yes |
+
 
 Please feel free to comment or come back to me with your thoughts. :-)
