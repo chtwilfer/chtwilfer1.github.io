@@ -25,7 +25,7 @@ I took the opportunity to create exactly such a scenario for Azure Arc.
 Unfortunately, I don't have any hardware available On-Prem, so I use Azure to map the scenario. 
 
 So what I have done?
-With my new repository on Github [Github](https://github.com/chtwilfer/Arc-enabledWinServersDemoLab/blob/main/README.md) I create a mini Hub & Spoke landing zone. Where the Spoke here is to represent the on-prem world.
+With my new repository on [Github](https://github.com/chtwilfer/Arc-enabledWinServersDemoLab/blob/main/README.md) I create a mini Hub & Spoke landing zone. Where the Spoke here is to represent the on-prem world.
 I connect the Hub to the Spoke via an appropriate VPN gateway. I also deploy an Azure Bastion and a Virtual Machine in the Spoke. The virtual machine represents the VM On-Prem.
 With the Azure Bastion (Jumphost) I access the VM via the Azure Portal, so that the virtual machine is not on the Internet with a public IP address.
 So it's a self-contained system, just like we would use in production. 
@@ -42,6 +42,7 @@ At this point it should be said that I did not create the landing zone model and
 I just combined really good existing work and adapted it slightly for my needs.
 
 The original version of the Landing Zone is from [Github](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder).
+
 The original version of Install Arc is from [Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/azure/azure_arm_template_win/).
 
 Thanks a lot for your really good work. :-)
