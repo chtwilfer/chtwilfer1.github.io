@@ -24,7 +24,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/leap-da@v0.2.0
+#remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -56,6 +57,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-algolia
+  - jekyll-remote-theme
 
 author:
   name   : "Christian Twilfer (AzureCris)"
